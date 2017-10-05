@@ -1,0 +1,1 @@
+java -cp /Users/daniellindeman/Programs/talk/src:/Users/daniellindeman/Programs/talk/src/compute/compute.jar -Djava.server.codebase=file:/Users/daniellindeman/Programs/talk/src/ -Djava.security.policy=/Users/daniellindeman/Programs/talk/src/client/client.policy -Djava.rmi.server.useCodebaseOnly=false client.Client dan localhost
